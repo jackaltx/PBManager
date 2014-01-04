@@ -1,3 +1,5 @@
+# this is for the development phase, will go away when really gemized
+
 iso_mgr = nil
 
 desc "Build and populate data directory"
