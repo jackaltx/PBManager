@@ -1,0 +1,1 @@
+export PBMANAGER_ROOT=`pwd`
